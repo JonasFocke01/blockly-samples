@@ -7,7 +7,7 @@
 import * as Blockly from 'blockly/core';
 
 /**
- * Returns the extra state of the given block (either as XML or a JSO, depending
+ * Returns the extra state of the given block (either as XML or a JSON, depending
  * on the block's definition).
  * @param {!Blockly.BlockSvg} block The block to get the extra state of.
  * @returns {string} A stringified version of the extra state of the given
